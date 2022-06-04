@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyZakat-Gold</string>
+    <string name="messageWithLink"><a href="https://github.com/atikahsukiman/ICT602_MyZakatGoldApp.git">Visit our website here!</a></string>
+    <string-array name="status">
+        <item>To Keep</item>
+        <item>To Wear</item>
+    </string-array>
+
+</resources>
